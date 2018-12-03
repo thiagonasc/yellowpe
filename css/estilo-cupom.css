@@ -1,0 +1,60 @@
+body {
+	background-color: #efefef;
+	background-image: url("../img/bg-sandwich.jpg");
+	background-position: top center;
+	background-repeat: no-repeat;
+}
+
+.logo {
+	text-align: center;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size: 1.4em;
+	font-weight: bold;
+	padding: 10px 0px;
+	color:#fff;
+	text-shadow: 1px 1px 2px #000;
+}
+
+.caixa {
+	margin:30px 0px 60px 0px;
+	padding:80px;
+	background-color:#fff;
+	border-radius: 4px;
+}
+
+h1, h2{
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+.card-img img{
+	border-radius: 8px 8px 0px 0px;
+}
+.card-txt{
+	padding: 8px 12px;
+	background-color: #33BA59;
+	color:#fff;
+	border-radius: 0px 0px 8px 8px;
+	margin-bottom: 40px;
+}
+
+.card-secundario{
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size: 1.3em;
+	margin-bottom: 20px;
+}
+
+.cupom-esquerdo {
+	background-color:#33BA59;
+	color:#fff;
+	padding:10px;
+	border-radius:6px 0px 0px 6px;
+}
+
+.cupom-direito {
+	background-color:#EFFFDD;
+	color:#333;
+	padding: 10px;
+	font-weight: bold;
+	border:1px solid #33BA59;
+	border-radius:0px 6px 6px 0px;
+}
